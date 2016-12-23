@@ -1396,7 +1396,8 @@
 	}
 
 	body {
-		background: #2e3842;
+		/*background: #424242;*/
+		background: #424242
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1804,7 +1805,7 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #2e3842;
+			background: #424242;
 			color: #fff;
 			content: '\f00c';
 		}
@@ -2641,16 +2642,16 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c7ebe8;
+			background-color: #eee;
+			color: #686868;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #ffffff;
+				color: #474747;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #474747;
 			}
 
 			.wrapper.style1 hr {
@@ -2674,7 +2675,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #686868;
 			}
 
 			.wrapper.style1 label {
@@ -2795,20 +2796,20 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #424242;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color: #eee;
+			color: #686868;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #ffffff;
+				color: #474747;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #ffffff;
+				color: #474747;
 			}
 
 			.wrapper.style3 hr {
@@ -2962,11 +2963,11 @@
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #2E3842;
+				color: #424242;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #2E3842;
+				color: #424242;
 			}
 
 			.wrapper.style5 hr {
@@ -2994,7 +2995,7 @@
 			}
 
 			.wrapper.style5 label {
-				color: #2E3842;
+				color: #424242;
 			}
 
 			.wrapper.style5 input[type="text"],
@@ -3021,7 +3022,7 @@
 
 			.wrapper.style5 input[type="checkbox"]:checked + label:before,
 			.wrapper.style5 input[type="radio"]:checked + label:before {
-				background: #2E3842;
+				background: #424242;
 				color: #ffffff;
 			}
 
@@ -3062,7 +3063,7 @@
 				}
 
 			.wrapper.style5 table th {
-				color: #2E3842;
+				color: #424242;
 			}
 
 			.wrapper.style5 table thead {
@@ -3083,7 +3084,7 @@
 			.wrapper.style5 button,
 			.wrapper.style5 .button {
 				box-shadow: inset 0 0 0 2px #dfdfdf;
-				color: #2E3842;
+				color: #424242;
 			}
 
 				.wrapper.style5 input[type="submit"]:hover,
@@ -3254,7 +3255,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #424242;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3509,7 +3510,7 @@
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #424242;
 			display: block;
 			width: 100%;
 			height: 100%;
@@ -3701,7 +3702,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #424242;
 		text-align: center;
 	}
 
@@ -3791,7 +3792,7 @@
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(66, 66, 66, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
@@ -3810,7 +3811,7 @@
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+		background-color: #424242;
 	}
 
 .profile-img {
