@@ -2027,7 +2027,7 @@
 			}
 
 				ul.icons li:last-child {
-					padding-right: 0 !important;
+					/*padding-right: 0 !important;*/
 				}
 
 			ul.icons.major {
@@ -2035,7 +2035,8 @@
 			}
 
 				ul.icons.major li {
-					padding-right: 3.5em;
+					padding-right: 1.5em;
+					padding-left: 1.5em;
 				}
 
 					@media screen and (max-width: 736px) {
